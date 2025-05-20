@@ -1,5 +1,5 @@
 
-# 🧭 Time Travel Debugger
+# 🧭 Time Travel Debugger [![NPM version](https://img.shields.io/npm/v/time-travel-debugger.svg?style=flat)](https://www.npmjs.com/package/time-travel-debugger) [![NPM downloads](https://img.shields.io/npm/dm/time-travel-debugger.svg?style=flat)](https://npmjs.org/package/time-travel-debugger)
 
 Ever wanted to go *back in time* and see what your React state was thinking?
 

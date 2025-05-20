@@ -15,7 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/cinfinit/time-travel-debugger.git"
   },
-  "keywords": [ "debugger", "time-travel", "react", "state", "debug", "time-travel-debugger" ],
+  "keywords": [
+    "debugger",
+    "time-travel",
+    "react",
+    "state",
+    "debug",
+    "time-travel-debugger"
+  ],
   "author": "cinfinit",
   "license": "ISC",
   "bugs": {
