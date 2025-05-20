@@ -1,0 +1,17 @@
+// {
+//     "presets": [
+//         "@babel/preset-env",
+//         "@babel/preset-react"
+//     ]
+// }
+{
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "modules": false  // important: keep modules as ES modules
+        }
+      ],
+      "@babel/preset-react"
+    ]
+  }
