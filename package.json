@@ -1,6 +1,6 @@
 {
   "name": "time-travel-debugger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🧭 Time Travel Debugger is a lightweight, component-level state debugger that tracks your `useState` evolution",
   "main": "dist/index.js",
   "module": "dist/index.js",
