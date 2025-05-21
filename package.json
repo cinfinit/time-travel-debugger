@@ -8,7 +8,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "babel src --out-dir dist --copy-files",
+    "build": "babel src --out-dir dist --copy-files  && cp demo.png dist/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -56,7 +56,7 @@ useTimeTravelState(key, initialValue)
 import { useTimeTravelState } from 'time-travel-debugger';
 
 function YourComponent() {
-  const [count, setCount] = useState(0);
+  // const [count, setCount] = useState(0); <- existing state
 
   const [count, setCount] = useTimeTravelState('count', 0);
 
@@ -100,7 +100,7 @@ With this you can just monitor without making any code change
 
 ## 🕵️‍♀️ The Debugger UI
 
-<img src="./demo.png" alt="time-travel-debugger Demo" width="600">
+<img src="./dist/demo.png" alt="time-travel-debugger Demo" width="600">
 
 Simply drop in:
 ```jsx
