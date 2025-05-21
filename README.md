@@ -100,7 +100,7 @@ With this you can just monitor without making any code change
 
 ## 🕵️‍♀️ The Debugger UI
 
-<img src="./dist/demo.png" alt="time-travel-debugger Demo" width="600">
+<img src="./demo.png" alt="time-travel-debugger Demo" width="600">
 
 Simply drop in:
 ```jsx
